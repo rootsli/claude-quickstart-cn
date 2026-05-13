@@ -1,5 +1,5 @@
 <!-- Keep these links. Translations will automatically update with the README. -->
-[中文](https://zdoc.app/zh/rootsli/claude-quickstart-cn)
+[中文](https://zdoc.app/zh/rootsli/claude-quickstart-cn) | 
 [English](https://zdoc.app/en/rootsli/claude-quickstart-cn) | 
 [Deutsch](https://zdoc.app/de/rootsli/claude-quickstart-cn) | 
 [Español](https://zdoc.app/es/rootsli/claude-quickstart-cn) | 
@@ -7,7 +7,7 @@
 [日本語](https://zdoc.app/ja/rootsli/claude-quickstart-cn) | 
 [한국어](https://zdoc.app/ko/rootsli/claude-quickstart-cn) | 
 [Português](https://zdoc.app/pt/rootsli/claude-quickstart-cn) | 
-[Русский](https://zdoc.app/ru/rootsli/claude-quickstart-cn) | 
+[Русский](https://zdoc.app/ru/rootsli/claude-quickstart-cn)
 
 # Claude 中文版入门套件
 
